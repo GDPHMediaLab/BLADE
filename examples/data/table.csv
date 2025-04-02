@@ -1,0 +1,6 @@
+ID,is_malignant,BI-RADS,filename
+P1,0,2,P1.nii.gz
+P2,0,3,P2.nii.gz
+P3,1,2,P3.nii.gz
+P4,1,4,P4.nii.gz
+P5,1,5,P5.nii.gz
